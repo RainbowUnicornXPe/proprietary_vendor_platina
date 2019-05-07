@@ -2561,4 +2561,6 @@ PRODUCT_PACKAGES += \
     WfdCommon \
     qcrilhook \
     vendor.qti.hardware.soter-V1.0-java \
-    chargeonlymode
+    chargeonlymode \
+    HotwordEnrollmentOKGoogleWCD9340 \
+    HotwordEnrollmentXGoogleWCD9340
